@@ -1,17 +1,16 @@
 ---
 name: Crash to Desktop
-about: Please fill out this detailed crash report to the best of your abilities.
+about: Please fill out this detailed crash report to the best of your abilities assign to Project.
 title: "[DATE]: [Crash to Desktop]"
 labels: "Type: Crash to desktop, Type: Needs Triage, Status: Not Confirmed"
-projects: 'Project-Hatchet/Repository_Template/Version_Status'
+projects: 'https://github.com/Project-Hatchet/Repository_Template/projects/1'
 assignees: YannikH , ampersand38 , a26mike
-food: Pizza
 ---
 <!---NOTE: Replace any "ENTER TEXT HERE" with your input  .-->
 
 <!--- Your title should serve as a concise summary of what the bug is.Pro Tip: We recommend you review the title again after completing the report to ensure it is concise and reflects the problem.-->
 
-<h1>{{ page.food }}</h1>
+
 
 # First Add RPT log from both client and server
 ### **RPT log file:**
