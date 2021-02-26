@@ -1,9 +1,37 @@
+# Replace **PROJECT** with name or aircraft
+## make.py
+- project = "@hatchet_PROJECT"
+- key_name = "hatchet_PROJECT"
+- prefix = "hatchet_PROJECT"
+- pbo_name_prefix = "hatchet_PROJECT_"
+- MAINPREFIX = "z"
+- PREFIX = "hatchet_PROJECT_"
+## make.cfg
+- project = @hatchet_PROJECT
+- prefix = z\hatchet_PROJECT\addons
+- module_root = P:\z\hatchet_PROJECT\addons
+- optionals_root = P:\z\hatchet_PROJECT\optionals
+- P:\z\hatchet_PROJECT\release
+- pbo_name_prefix = PROJECT_
+- -zipPrefix = hatchet_PROJECT
+- build_tool = pboproject
+
+## Setup.py
+MAINDIR = "z"
+
+PROJECTDIR = "hatchet_PROJECT"
+
+CBA = "P:\\x\\CBA_A3"
+
+ACE = "P:\\x\\ACE3"
+
+
 # Documenting the workflow folder
  1. You need to go through workflow file
- 2. change **PROJECT_NAME** in each file all in **lower case** and no special char's ie @$%&* only
-    1. release_dev.yml PROJECT_NAME_dev
-    2. release_main.yml PROJECT_NAME_main
-    3. release_rc.yml PROJECT_NAME_rc
+ 2. change **PROJECT** in each file all in **lower case** and no special char's ie @$%&* only
+    1. release_dev.yml hatchet_PROJECT_dev
+    2. release_main.yml hatchet_PROJECT_main
+    3. release_rc.yml hatchet_PROJECT_rc
 
 ## **What does everything do**
 

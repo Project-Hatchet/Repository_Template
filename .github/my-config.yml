@@ -3,7 +3,7 @@ name: Release Drafter Configs
 branches:
   - main
 
-name-template: 'Hatchet Framework $RESOLVED_VERSION'
+name-template: 'hatchet_PROJECT $RESOLVED_VERSION'
 tag-template: 'v$RESOLVED_VERSION'
 
 categories:

@@ -35,5 +35,5 @@ jobs:
           command: build --release --ci
       - uses: actions/upload-artifact@v2
         with:
-          name: PROJECT_NAME
-          path: releases/PROJECT_NAME.zip
+          name: hatchet_PROJECT
+          path: releases/hatchet_PROJECT.zip

@@ -21,7 +21,7 @@ jobs:
       with:
         appId: '107410'    # default
         itemId: '' # Id of item to update
-        contentPath: 'releases/${{ env.VERSION }}/@PROJECT_NAME'
+        contentPath: 'releases/${{ env.VERSION }}/@hatchet_PROJECT'
         changelog: 'Content of change notes'
       env:
         STEAM_USERNAME: ${{ secrets.STEAM_USERNAME }}
