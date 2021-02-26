@@ -1,17 +1,17 @@
 ---
 name: Crash to Desktop
-author: "a26mike"
-about: Detailed Crash report to help the developers solve the issue
-title: "[DATE]: [Crash report]"
+about: Please fill out this detailed crash report to the best of your abilities.
+title: "[DATE]: [Crash to Desktop]"
 labels: "Type: Crash to desktop, Type: Needs Triage, Status: Not Confirmed"
-projects: 'Version Status'
-assignees: 'YannikH, Steve Zhao, a26mike'
+projects: 'Project-Hatchet/Repository_Template/Version_Status'
+assignees: YannikH , ampersand38 , a26mike
+food: Pizza
 ---
 <!---NOTE: Replace any "ENTER TEXT HERE" with your input  .-->
 
 <!--- Your title should serve as a concise summary of what the bug is.Pro Tip: We recommend you review the title again after completing the report to ensure it is concise and reflects the problem.-->
 
-
+<h1>{{ page.food }}</h1>
 
 # First Add RPT log from both client and server
 ### **RPT log file:**
