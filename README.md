@@ -72,3 +72,4 @@ ACE = "P:\\x\\ACE3"
 3. Labels description's tell what part the tags update
 4. Read the issue labels
 5. relies on a config file located in the root folder called my-config.yml
+6. 
