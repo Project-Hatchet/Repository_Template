@@ -1,6 +1,14 @@
 blank_issues_enabled: false
 contact_links:
-  - name: GitHub Community Support
-    url: bug_report.md
-    about: Please ask and answer questions here.
+  - name: Hatchet Studio Discord link
+    url: https://discord.gg/4AYEfFD
+    about: Please come and ask more questions
+  - name: Hatchet TeamSpeak
+    ip: 147.135.30.56
+    about: Please come and ask more questions.
+  - name: Hatchet TeamSpeak 2
+    url: ts.509pir.us
+    about: Please come and ask more questions
+
+
 

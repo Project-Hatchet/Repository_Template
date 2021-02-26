@@ -1,32 +1,28 @@
 ---
 name: Crash to Desktop
-about: Please fill out this detailed crash report to the best of your abilities assign to Project.
+about: Please fill out this as detailed as possible, CTD are rare, the mor info the better.
 title: "[DATE]: [Crash to Desktop]"
-labels: "Type: Crash to desktop, Type: Needs Triage, Status: Not Confirmed"
-projects: "Project-Hatchet/Repository_Template/1"
+labels: "Type: Crash to desktop, Type: Needs Triage"
 assignees: YannikH , ampersand38 , a26mike
 ---
-<!---NOTE: Replace any "ENTER TEXT HERE" with your input  .-->
+<!---NOTE: Replace any "ENTER TEXT HERE" with your input fill in date YYMMDD  .-->
 
 <!--- Your title should serve as a concise summary of what the bug is.Pro Tip: We recommend you review the title again after completing the report to ensure it is concise and reflects the problem.-->
 
 
+<!-- Delete anything that is not relevant but try to follow the format.  -->
 
-# First Add RPT log from both client and server
-### **RPT log file:**
-- Add a link ([gist](https://gist.github.com) or [pastebin](http://pastebin.com)) to the client and/or server RPT file. An instruction to find your RPT files can be found [here](https://community.bistudio.com/wiki/Crash_Files#Arma_3).
+
+
+# **First Add RPT log from both client and server**
+# **RPT log file:**
+### - Add a link ([gist](https://gist.github.com) or [pastebin](http://pastebin.com)) to the client and/or server RPT file. An instruction to find your RPT files can be found [here](https://community.bistudio.com/wiki/Crash_Files#Arma_3).
 
  <!-- Otherwise use the template below. This ensures that we have all needed information for a first investigation. -->
  <!-- Please understand that we close your report uncommented if you don't use the template so we would need to ask everything which is already asked in it. -->
 
-# Basic Information>
+># Basic Information
 <!-- **Mods (complete and add to the following information):** -->
-**Required Mods used and version :**
-- **Arma 3:** `x.xx` [e.g. 1.00 stable, rc,  dev, ]
-- **CBA:** `3.x.x` [e.g. 3.0.0 stable]
-- **ACE3:** `3.x.x` [eg. 3.0.0 stable]
--  **Hatchet H-60 pack - Development Version:** `3.x.x` [eg. 3.0.0 main]
--  **Hatchet Framework - Development Version:** `3.x.x` [eg. 3.0.0 stable]
 
 <!-- We know you use more mods, please list all and include a link make more or less as needed   -->
 
@@ -43,22 +39,28 @@ assignees: YannikH , ampersand38 , a26mike
 9. [Your Mod here](https://steamcommunity.com/app/107410/workshop/)
 10. [Your Mod here](https://steamcommunity.com/app/107410/workshop/)
 
-## **Operating Environment**
+>## **Operating Environment**
 <!-- Add map/mission name and replace link with steam link   -->
 **Map**
 - [Map Name with link ](https://steamcommunity.com/app/107410/workshop/)
-<!-- Fill in information after :  Place [x] in box if applicable -->
+<!-- Fill in information after :  Place [x] in box if applicable or delete  -->
 **Mission:**
 - [ ] Zeus
+
 - [ ] Downloaded
     - [Mission Name](https://steamcommunity.com/app/107410/workshop/)
+
 - [ ] Self Made
     - [Mission Name](https://steamcommunity.com/app/107410/workshop/)
-- [ ] Editor
+
+- [ ] Playing around in the Editor
 
 <!-- Fill in information after :  Place [x] in box if applicable -->
 **Server Type**
 - [ ] Dedicated server box
+    - Number of Players:
+    - Server Frames:
+    - Server branch:
     - Provider:
     - Operating System:
     - CPU:
@@ -76,44 +78,50 @@ assignees: YannikH , ampersand38 , a26mike
 
 
 ### Individual Things
-- Did you edit anything within the mission files
- - [ ] yes
- - [ ] No
+- Did you edit anything within the mods files
+   - [ ] yes
+   - [ ] No
 
 **If yes, what did you edit exactly?**
 
+Text goes here
 
-# Bug Report
+># **Bug Report Section**
 
 ## **Description:**
-<!-- Add a detailed description of the error. This makes it easier for us to fix the issue. -->
 
+- Add a detailed description of the error. This makes it easier for us to fix the issue
 
-### **Expected Behavior**
+## **Expected Behavior**
 
-
-If you're describing a bug, tell us what should happen
+1.  If you're describing a bug, tell us what should happen
 
 ### Steps to Reproduce the Issue
-<!-- Provide an unambiguous set of steps to reproduce this bug. -->
+
+<!-- Delete anything not relevant . -->
+1. Provide an unambiguous set of steps to reproduce this bug
+2. Include code to reproduce, if relevant
+
+
 <!-- Include code to reproduce, if relevant -->
-1. Text goes here
-2. Text goes here
-3. Text goes here
-4. Text goes here
-5. Text goes here
+```sqf
+code = here
+
+```
 
 
 ### **Screenshots**
-If applicable, add screenshots to help explain your problem.
+<!-- If applicable, add screenshots to help explain your problem.. -->
+
 
 ### **Video**
+<!-- If applicable, add Youtube to help explain your problem.. -->
 
-- [Youtube link](https:/youtube.com)
+- [YouTube link](https:/youtube.com)
 
 
 ### **Additional context**
-<!-- Add any other context about the problem here. -->
+- Add any other context about the problem here
 
 
 
