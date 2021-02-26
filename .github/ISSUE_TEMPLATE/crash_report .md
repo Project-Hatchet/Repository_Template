@@ -3,7 +3,7 @@ name: Crash to Desktop
 about: Please fill out this detailed crash report to the best of your abilities assign to Project.
 title: "[DATE]: [Crash to Desktop]"
 labels: "Type: Crash to desktop, Type: Needs Triage, Status: Not Confirmed"
-projects: https://github.com/Project-Hatchet/Repository_Template/issues/new?title=%5BDATE%5D%3A+%5BCrash+to+Desktop%5D&projects=Project-Hatchet/Repository_Template/1
+projects: "Project-Hatchet/Repository_Template/1"
 assignees: YannikH , ampersand38 , a26mike
 ---
 <!---NOTE: Replace any "ENTER TEXT HERE" with your input  .-->
