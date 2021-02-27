@@ -3,7 +3,7 @@ name: Steam_Upload/Dev
 on:
   push:
     branches:
-    - main
+    - _main
 
 jobs:
   build_addon:

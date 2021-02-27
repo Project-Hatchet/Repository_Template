@@ -1,7 +1,7 @@
 name: Release Drafter Configs
 
 branches:
-  - main
+  - _main
 
 name-template: 'hatchet_PROJECT $RESOLVED_VERSION'
 tag-template: 'v$RESOLVED_VERSION'

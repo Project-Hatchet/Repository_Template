@@ -3,7 +3,7 @@ name: CI/Validate
 on:
   push:
     branches:
-    - main
+    - _main
   pull_request:
 
 jobs:
