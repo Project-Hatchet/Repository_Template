@@ -1,7 +1,7 @@
 ---
 name: Basic Bug report
 about: Thank you for spending time to properly fill out this bug report.
-title: "[DATE]: [NAME OF BUG]"
+title: "Bug/NAME OF BUG"
 labels: "Type: Bug , Type: Needs Triage, Status: Not Confirmed, Role: Tester "
 assignees: SirGhosty22
 ---

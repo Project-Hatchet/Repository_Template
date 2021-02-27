@@ -1,9 +1,9 @@
 ---
 name: Mod conflict
 about: Please fill out this as detailed as possible for the Mod conflict.
-title: "[DATE]: [Mod in question]"
+title: "Conflict/Mod in question"
 labels: "Type: Bug , Type: Needs Triage, Status: Not Confirmed, Role: Tester"
-assignees: SirGhosty22
+assignees: SirGhosty22, Oyu-De
 ---
 <!---NOTE: Replace Add the mod that caused the conflict here
 with the mod you believed to be the issue, Ensure you upload and rpt . .-->

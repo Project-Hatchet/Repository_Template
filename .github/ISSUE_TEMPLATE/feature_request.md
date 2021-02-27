@@ -1,7 +1,7 @@
 ---
 name: Feature Request
 about: Thank you for spending time to properly fill out this Feature Request.
-title: "[DATE]: [NAME OF FEATURE REQUEST]"
+title: "FEATURE_REQUEST/NAME OF FEATURE REQUEST"
 labels: "Type: Feature Request, Type: Needs Triage"
 assignees: ''
 ---

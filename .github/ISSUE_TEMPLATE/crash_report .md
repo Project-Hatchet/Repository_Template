@@ -1,7 +1,7 @@
 ---
 name: Crash to Desktop
 about: Please fill out this as detailed as possible, CTD are rare, the mor info the better.
-title: "[DATE]: [Crash to Desktop]"
+title: "CTD/Crash to Desktop"
 labels: "Type: Crash to desktop, Type: Needs Triage"
 assignees: YannikH , ampersand38 , a26mike
 ---
